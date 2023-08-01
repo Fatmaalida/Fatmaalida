@@ -1,5 +1,4 @@
-[![MasterHead](https://uvn-brightspot.s3.amazonaws.com/assets/vixes/btg/series.batanga.com/files/10-geniales-gifs-de-Sheldon-siendo-Sheldon-11.gif)
-
+[![MasterHead](https://www.univision.com/proxy/api/cached/picture?href=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fassets%2Fvixes%2Fbtg%2Fseries.batanga.com%2Ffiles%2F10-geniales-gifs-de-Sheldon-siendo-Sheldon-11.gif&width=0&height=0&ratio_width=1240&ratio_height=698&format=webp)
 <h1 align="center">Hi 👋, I'm Fatma Paltacı</h1>
 <h3 align="center">A passionate full-stack web developer from Turkey. It is of great importance for me to follow the current technologies and produce projects</h3>
 
