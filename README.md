@@ -1,6 +1,15 @@
 [![MasterHead](https://www.univision.com/proxy/api/cached/picture?href=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fassets%2Fvixes%2Fbtg%2Fseries.batanga.com%2Ffiles%2F10-geniales-gifs-de-Sheldon-siendo-Sheldon-11.gif&width=0&height=0&ratio_width=1240&ratio_height=698&format=webp)
 <h1 align="center">Hi 👋, I'm Fatma Paltacı</h1>
 <h3 align="center">A passionate full-stack web developer from Turkey. It is of great importance for me to follow the current technologies and produce projects</h3>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 
 - 📫 How to reach me **fatmapaltaci34@gmail.com**
 
