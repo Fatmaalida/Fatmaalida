@@ -5,7 +5,7 @@
 
 
 <h1 align="center"  >Hi 👋, I'm FATMA PALTACI</h1>
-<h3 align="center">A passionate full-stack web developer from Turkey. It is of great importance for me to follow the current technologies and produce projects</h3>
+<h3 align="center">A passionate full-stack developer from Turkey. It is of great importance for me to follow the current technologies and produce projects.</h3>
 
 
 - 📫 How to reach me **fatmapaltaci34@gmail.com**
